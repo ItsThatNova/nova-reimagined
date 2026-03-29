@@ -46,7 +46,7 @@ Original pack and full credits: https://www.complementary.dev
 
 - Minecraft 1.21.x (Java Edition)
 - [Iris Shaders](https://modrinth.com/mod/iris) 1.6+
-- [Nova Reimagined Snow]([https://github.com/ItsThatNova](https://github.com/ItsThatNova/nova-reimagined-snow)) companion mod (required for the snow system)
+- [Nova Reimagined Snow](https://github.com/ItsThatNova/nova-reimagined-snow) companion mod (required for the snow system)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) (optional, fully supported)
 
 ---
