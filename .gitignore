@@ -1,0 +1,17 @@
+# Distribution
+*.zip
+
+# User settings (Iris saves these next to the pack)
+shaders/shaderpack.properties
+*.txt.bak
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor clutter
+.vscode/
+.idea/
+*.swp
+*.swo
